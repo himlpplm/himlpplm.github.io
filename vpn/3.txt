@@ -10,7 +10,7 @@
     <h1>Error 503 Backend is unhealthy</h1>
     <p>Backend is unhealthy</p>
     <h3>Error 54113</h3>
-    <p>Details: cache-kul9828-KUL 1688060716 3619824689</p>
+    <p>Details: cache-kul9828-KUL 1688061014 3621792994</p>
     <hr>
     <p>Varnish cache server</p>
   </body>
